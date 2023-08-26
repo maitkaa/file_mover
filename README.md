@@ -5,13 +5,13 @@ This is a Python script that moves files based on keywords and file extensions. 
 # Demo
 In this File Mover application test scenario, we demonstrated how the application effectively organizes image files based on specific keywords and file extensions. The scenario was set up with the following elements:
 
-Folder: camera_dump, family, vacation, old_cam and images
-Keyword: img
-Output folder: Pictures
-File endings: .jpeg, .png, .svg, .jpg.
-Outcome: All the pictures get moved into the output folder.
+- Folder: camera_dump, family, vacation, old_cam and images
+- Keyword: img
+- Output folder: Pictures
+- File endings: .jpeg, .png, .svg, .jpg.
+- Outcome: All the pictures get moved into the output folder.
 
-<img src="assets/demo.gif" alt="Demo GIF" width="400" height="400">
+<img src="assets/demo.gif" alt="Demo GIF" width="600" height="400">
 
 ## Features
 
