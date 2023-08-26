@@ -59,4 +59,3 @@ Select the file endings you want to consider for moving.
 
 An executable release is automatically generated on every push to the main branch using GitHub Actions.
 
-* The executable release is created as an artifact and can be downloaded from the GitHub Actions page.
